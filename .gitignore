@@ -1,0 +1,32 @@
+# === OS generated files ===
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# === Directories created by IDE ===
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.project
+.buildpath
+
+# === Maven ===
+log/
+target/
+
+# === Logs and databases ===
+*.log
+*.sqlite
+
+# === Vagrant ===
+.vagrant
+
+# === Chef ===
+environment/chef/nodes/*.json
