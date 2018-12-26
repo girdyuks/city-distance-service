@@ -3,7 +3,7 @@
 ### Config
 To run application just execute java -jar <jar_path>
 
-The default port for application is 8080
+The default port of application is 8080
 
 ### Main endpoints
 
