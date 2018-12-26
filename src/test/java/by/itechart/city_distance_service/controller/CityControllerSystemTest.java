@@ -40,7 +40,7 @@ public class CityControllerSystemTest {
     }
 
     @Test
-    public void findAllPaths() {
+    public void iCanFindAllPathsBetweenTwoCities() {
         LinkDto linkDto = new LinkDto();
         linkDto.setTarget("sdkfjhk34");
         linkDto.setSource("vh09h34");
