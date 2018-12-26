@@ -15,6 +15,7 @@ to find all paths between two cities
 
 ### Plugins
 Checkstyle plugin is included in validate phase
+
 PMD plugin (ruleset.xml) can be started by command: 
 
     mvn pmd:check
