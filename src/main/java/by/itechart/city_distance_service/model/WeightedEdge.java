@@ -1,4 +1,4 @@
-package by.itechart.turvo_task.model;
+package by.itechart.city_distance_service.model;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

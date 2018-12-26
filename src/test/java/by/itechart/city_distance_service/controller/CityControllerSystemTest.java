@@ -1,7 +1,7 @@
-package by.itechart.turvo_task.controller;
+package by.itechart.city_distance_service.controller;
 
-import by.itechart.turvo_task.dto.LinkDto;
-import by.itechart.turvo_task.dto.PathDto;
+import by.itechart.city_distance_service.dto.LinkDto;
+import by.itechart.city_distance_service.dto.PathDto;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import org.junit.Test;

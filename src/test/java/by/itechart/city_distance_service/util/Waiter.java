@@ -1,4 +1,4 @@
-package by.itechart.turvo_task.util;
+package by.itechart.city_distance_service.util;
 
 import java.util.concurrent.TimeoutException;
 import java.util.function.BooleanSupplier;

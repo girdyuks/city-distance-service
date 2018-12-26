@@ -1,8 +1,8 @@
-package by.itechart.turvo_task.service;
+package by.itechart.city_distance_service.service;
 
-import by.itechart.turvo_task.dto.LinkDto;
-import by.itechart.turvo_task.dto.PathDto;
-import by.itechart.turvo_task.exception.PathNotFoundException;
+import by.itechart.city_distance_service.dto.LinkDto;
+import by.itechart.city_distance_service.dto.PathDto;
+import by.itechart.city_distance_service.exception.PathNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

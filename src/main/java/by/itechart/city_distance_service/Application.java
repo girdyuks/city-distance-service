@@ -1,4 +1,4 @@
-package by.itechart.turvo_task;
+package by.itechart.city_distance_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

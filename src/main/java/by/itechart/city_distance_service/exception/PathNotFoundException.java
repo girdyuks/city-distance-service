@@ -1,4 +1,4 @@
-package by.itechart.turvo_task.exception;
+package by.itechart.city_distance_service.exception;
 
 import lombok.NoArgsConstructor;
 

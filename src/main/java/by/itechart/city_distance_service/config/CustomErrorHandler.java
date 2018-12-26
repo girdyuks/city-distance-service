@@ -1,7 +1,7 @@
-package by.itechart.turvo_task.config;
+package by.itechart.city_distance_service.config;
 
-import by.itechart.turvo_task.exception.CityNotFoundException;
-import by.itechart.turvo_task.exception.PathNotFoundException;
+import by.itechart.city_distance_service.exception.CityNotFoundException;
+import by.itechart.city_distance_service.exception.PathNotFoundException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;

@@ -1,7 +1,7 @@
-package by.itechart.turvo_task.service;
+package by.itechart.city_distance_service.service;
 
-import by.itechart.turvo_task.dto.PathDto;
-import by.itechart.turvo_task.model.WeightedEdge;
+import by.itechart.city_distance_service.dto.PathDto;
+import by.itechart.city_distance_service.model.WeightedEdge;
 import org.jgrapht.Graph;
 import org.jgrapht.graph.DefaultUndirectedWeightedGraph;
 import org.junit.Before;

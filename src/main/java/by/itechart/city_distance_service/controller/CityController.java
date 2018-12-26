@@ -1,8 +1,8 @@
-package by.itechart.turvo_task.controller;
+package by.itechart.city_distance_service.controller;
 
-import by.itechart.turvo_task.dto.LinkDto;
-import by.itechart.turvo_task.dto.PathDto;
-import by.itechart.turvo_task.service.CityDistanceService;
+import by.itechart.city_distance_service.dto.LinkDto;
+import by.itechart.city_distance_service.dto.PathDto;
+import by.itechart.city_distance_service.service.CityDistanceService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

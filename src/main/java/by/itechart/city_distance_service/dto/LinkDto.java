@@ -1,4 +1,4 @@
-package by.itechart.turvo_task.dto;
+package by.itechart.city_distance_service.dto;
 
 import lombok.Data;
 

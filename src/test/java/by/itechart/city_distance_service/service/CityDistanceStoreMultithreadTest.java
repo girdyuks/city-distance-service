@@ -1,7 +1,7 @@
-package by.itechart.turvo_task.service;
+package by.itechart.city_distance_service.service;
 
-import by.itechart.turvo_task.model.WeightedEdge;
-import by.itechart.turvo_task.util.Waiter;
+import by.itechart.city_distance_service.model.WeightedEdge;
+import by.itechart.city_distance_service.util.Waiter;
 import org.jgrapht.Graph;
 import org.junit.Before;
 import org.junit.Test;
