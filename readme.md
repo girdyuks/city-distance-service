@@ -20,5 +20,5 @@ PMD plugin (ruleset.xml) can be started by command:
     mvn pmd:check
     
 ### Tests
-All tests are included into test phase except integration and multithreading tests
+All tests are included in test phase except integration and multithreading tests
 
